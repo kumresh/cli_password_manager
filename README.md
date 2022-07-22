@@ -28,4 +28,29 @@ all the password are stored in **encrypted form**.
 
 ## How to use
 
+```bash
+git clone https://github.com/kumresh/cli_password_manager.git
+```
+
+### Install requirement module
+
+```bash
+pip install prettytable cryptography
+```
+
+### pyhton version
+
+- > python 3.10 
+
+### run program
+
+```bash 
+cd cli_password_manager
+```
+
+```bash
+python password_manager.py
+```
+
+
 
