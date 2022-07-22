@@ -1,7 +1,7 @@
 
 # Command Line Password manager
 
-A simple password manager which is encrypted digital vault that stores secure login credential information of your app or sites.
+A simple CLI password manager which is encrypted digital vault that stores secure login credential information of your app or sites.
 
 ## Features
 
